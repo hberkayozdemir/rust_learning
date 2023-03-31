@@ -77,5 +77,3 @@ c. Documenting your Rust code and using rustdoc
 a. Rust ecosystem and popular libraries
 b. Leveraging the Rust community for support
 c. Tips for idiomatic Rust and best practices
-
-These subject headings should provide a comprehensive introduction to Rust, focusing on key concepts, syntax, and features, as well as leveraging your existing knowledge in Flutter and software engineering. Good luck on your Rust learning journey!
