@@ -74,6 +74,6 @@
 
 ## Community Resources and Best Practices
 
-a. Rust ecosystem and popular libraries
-b. Leveraging the Rust community for support
-c. Tips for idiomatic Rust and best practices
+- Rust ecosystem and popular libraries
+- Leveraging the Rust community for support
+- Tips for idiomatic Rust and best practices
